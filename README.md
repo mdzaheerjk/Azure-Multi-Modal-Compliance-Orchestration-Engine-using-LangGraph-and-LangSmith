@@ -4,7 +4,7 @@ An automated Video Compliance QA pipeline using LangGraph audits videos with RAG
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_9c0qbj9c0qbj9c0q_1_1_FnU9LMp.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_9c0qbj9c0qbj9c0q_1_1_FnU9LMp.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ An automated Video Compliance QA pipeline using LangGraph audits videos with RAG
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Project2_Langgraph_Architecture.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Project2_Langgraph_Architecture.png"
        alt="System Architecture"
        width="600" />
 </p>
